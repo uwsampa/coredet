@@ -5,7 +5,30 @@ Source code releases. This repository is just a hosting platform for the previou
 
 More info about the overall project: [Deterministic Multiprocessing (DMP)](http://sampa.cs.washington.edu/research/dmp.html)
 
+### Releases
+
 Binary and source code distributions are available from the [Releases page](https://github.com/uwsampa/coredet/releases).
+
+#### Version used in our ASPLOS 2010 paper
+
+- **coredet-asplos10.tar.gz** (52 MB)
+  - CoreDet compiler and runtime plus source code for our benchmarks
+- **coredet-asplos10-srconly.tar.gz** (200 KB)
+  - CoreDet compiler and runtime only
+
+#### Version of the ASPLOS 2010 code updated to compile cleanly with LLVM 2.6
+
+- **coredet-asplos10-llvm26.tar.gz** (52 MB)
+  - CoreDet compiler and runtime plus source code for our benchmarks
+- **coredet-asplos10-llvm26-srconly.tar.gz** (200 KB)
+  - CoreDet compiler and runtime only
+
+#### Version used in our ASPLOS 2011 paper (includes DmpHB consistency)
+
+- **coredet-asplos11.tar.gz** (52 MB)
+  - CoreDet compiler and runtime plus source code for our benchmarks
+- **coredet-asplos11-srconly.tar.gz** (200 KB)
+  - CoreDet compiler and runtime only
 
 See the README.asplos2010 file for build instructions.
 
