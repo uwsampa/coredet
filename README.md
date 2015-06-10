@@ -41,3 +41,9 @@ The do-asplos10-benchmarks.sh script will fail in meta-benchmark-manager.py with
 ### Configuration script
 
 The script we use to setup CoreDet on a new machine can be found [here](setuphost.sh).
+
+### Authors
+- Tom Bergan
+- Joe Devietti
+- Luis Ceze
+- Dan Grossman
