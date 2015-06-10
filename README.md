@@ -11,10 +11,10 @@ See the README.asplos2010 file for build instructions.
 
 ### Known Bugs
 
-A file is missing from the full distributions (not the srconly distributions). That file is benchmarks/parsec/config/llvm-default.bldconf and can be found here.
+A file is missing from the full distributions (not the srconly distributions). That file is benchmarks/parsec/config/llvm-default.bldconf and can be found [here](llvm-default.bldconf) (in this repo).
 
 The do-asplos10-benchmarks.sh script will fail in meta-benchmark-manager.py with a regular expressions error at line 504. That entire block of code was used during local development and should be removed (lines 504-512, starting at “# git revision info”).
 
 ### Configuration script
 
-The script we use to setup CoreDet on a new machine can be found here.
+The script we use to setup CoreDet on a new machine can be found [here](setuphost.sh).
