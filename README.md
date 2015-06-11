@@ -45,5 +45,6 @@ The script we use to setup CoreDet on a new machine can be found [here](setuphos
 ### Authors
 - Tom Bergan
 - Joe Devietti
+- Owen Anderson
 - Luis Ceze
 - Dan Grossman
