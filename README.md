@@ -11,23 +11,23 @@ Binary and source code distributions are available from the [Releases page](http
 
 #### Version used in our ASPLOS 2010 paper
 
-- **coredet-asplos10.tar.gz** (52 MB)
+- [coredet-asplos10.tar.gz](https://github.com/uwsampa/coredet/releases/download/asplos10/coredet-asplos10.tar.gz) (52 MB)
   - CoreDet compiler and runtime plus source code for our benchmarks
-- **coredet-asplos10-srconly.tar.gz** (200 KB)
+- [coredet-asplos10-srconly.tar.gz](https://github.com/uwsampa/coredet/releases/download/asplos10/coredet-asplos10-srconly.tar.gz) (200 KB)
   - CoreDet compiler and runtime only
 
 #### Version of the ASPLOS 2010 code updated to compile cleanly with LLVM 2.6
 
-- **coredet-asplos10-llvm26.tar.gz** (52 MB)
+- [coredet-asplos10-llvm26.tar.gz](https://github.com/uwsampa/coredet/releases/download/asplos10-llvm26/coredet-llvm26.tar.gz) (52 MB)
   - CoreDet compiler and runtime plus source code for our benchmarks
-- **coredet-asplos10-llvm26-srconly.tar.gz** (200 KB)
+- [coredet-asplos10-llvm26-srconly.tar.gz](https://github.com/uwsampa/coredet/releases/download/asplos10-llvm26/coredet-llvm26-srconly.tar.gz) (200 KB)
   - CoreDet compiler and runtime only
 
 #### Version used in our ASPLOS 2011 paper (includes DmpHB consistency)
 
-- **coredet-asplos11.tar.gz** (52 MB)
+- [coredet-asplos11.tar.gz](https://github.com/uwsampa/coredet/releases/download/asplos11/coredet-asplos11.tar.gz) (52 MB)
   - CoreDet compiler and runtime plus source code for our benchmarks
-- **coredet-asplos11-srconly.tar.gz** (200 KB)
+- [coredet-asplos11-srconly.tar.gz](https://github.com/uwsampa/coredet/releases/download/asplos11/coredet-asplos11-srconly.tar.gz) (200 KB)
   - CoreDet compiler and runtime only
 
 See the README.asplos2010 file for build instructions.
